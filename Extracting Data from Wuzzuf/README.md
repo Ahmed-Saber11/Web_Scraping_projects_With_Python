@@ -17,7 +17,7 @@ The scraper targets "Data Analyst" positions (or any specified search query) and
 - Clean Data: Strips unnecessary whitespace and joins skill tags into a readable string.
 
 # Extracted Columns
-## The output CSV (Data Analysts Jobs.csv) contains the following columns:
+The output CSV (Data Analysts Jobs.csv) contains the following columns:
 - Posted Date: When the job was listed.
 - Job Title: The name of the position.
 - Company Name: The hiring organization.
