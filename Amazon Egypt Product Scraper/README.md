@@ -24,7 +24,7 @@ This scraper is designed to overcome common scraping challenges such as dynamic 
 - Data Management: Pandas
 - Driver Management: WebDriver Manager
 
---
+---
 
 # Project Structure
 - Extracting Products from Amazon.ipynb: The main Jupyter Notebook containing the logic.
